@@ -1,6 +1,6 @@
 <?php
 
-/* Connection to database */
+/* Connection to db */
 	$conn =mysqli_connect("localhost","root","","blog");
 
 	/* Check connection */
@@ -10,3 +10,4 @@
 	}
 
 ?>
+
